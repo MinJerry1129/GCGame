@@ -8,3 +8,4 @@ There's two alternatives to decide the winning team:
  - At the end of a round, if a team has a total score of 21 points exactly, they're the winners. If the team goes over their total score is reverted back to 11.
 
 You can check the full rules of Cornhole in http://www.cornholehowto.com/how-to-play/.
+# GCGame
