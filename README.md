@@ -9,3 +9,4 @@ There's two alternatives to decide the winning team:
 
 You can check the full rules of Cornhole in http://www.cornholehowto.com/how-to-play/.
 # GCGame
+# GCGame
